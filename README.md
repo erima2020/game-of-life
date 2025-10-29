@@ -1,6 +1,6 @@
 # Conway's Game of Life - HTML5 Canvas Implementation
 
-An interactive, feature-rich implementation of Conway's Game of Life using HTML5 Canvas, React, and TypeScript. Explore cellular automata with an intuitive interface supporting mouse and touch input.
+An interactive, feature-rich implementation of Conway's Game of Life using HTML5 Canvas, React, and TypeScript. Explore cellular automata with an intuitive interface supporting mouse and touch input. Made with Manu 1.5 lite in one interaction. (elements need adjusting but app is functional) 
 
 ## Features
 
